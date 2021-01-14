@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_558647_csi_regis.try_coordinator</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>x_558647_csi_regis.try_coordinator</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin92</sys_created_by>
+        <sys_created_on>2021-01-14 17:01:18</sys_created_on>
+        <sys_id>bb1efa442ff1e050cee6265df699b661</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_558647_csi_regis.try_coordinator</sys_name>
+        <sys_package display_value="CSI Registry" source="x_558647_csi_regis">d4ad36442ff1e050cee6265df699b60c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CSI Registry">d4ad36442ff1e050cee6265df699b60c</sys_scope>
+        <sys_update_name>sys_user_role_bb1efa442ff1e050cee6265df699b661</sys_update_name>
+        <sys_updated_by>admin92</sys_updated_by>
+        <sys_updated_on>2021-01-14 17:01:18</sys_updated_on>
+    </sys_user_role>
+</record_update>

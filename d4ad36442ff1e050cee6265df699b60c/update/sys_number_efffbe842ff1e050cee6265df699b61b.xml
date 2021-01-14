@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_558647_csi_regis_try_base">x_558647_csi_regis_try_base</category>
+        <maximum_digits>5</maximum_digits>
+        <number>1000</number>
+        <prefix>CSI</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin92</sys_created_by>
+        <sys_created_on>2021-01-14 17:09:29</sys_created_on>
+        <sys_id>efffbe842ff1e050cee6265df699b61b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CSI</sys_name>
+        <sys_package display_value="CSI Registry" source="x_558647_csi_regis">d4ad36442ff1e050cee6265df699b60c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CSI Registry">d4ad36442ff1e050cee6265df699b60c</sys_scope>
+        <sys_update_name>sys_number_efffbe842ff1e050cee6265df699b61b</sys_update_name>
+        <sys_updated_by>admin92</sys_updated_by>
+        <sys_updated_on>2021-01-14 17:09:29</sys_updated_on>
+    </sys_number>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_558647_csi_regis.try_submitter" name="x_558647_csi_regis.try_submitter">ff1eba4c2fb1e050cee6265df699b610</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin92</sys_created_by>
+        <sys_created_on>2021-01-14 17:01:18</sys_created_on>
+        <sys_id>f71eba4c2fb1e050cee6265df699b615</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ff1eba4c2fb1e050cee6265df699b610</sys_name>
+        <sys_package display_value="CSI Registry" source="x_558647_csi_regis">d4ad36442ff1e050cee6265df699b60c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CSI Registry">d4ad36442ff1e050cee6265df699b60c</sys_scope>
+        <sys_update_name>sys_embedded_help_role_f71eba4c2fb1e050cee6265df699b615</sys_update_name>
+        <sys_updated_by>admin92</sys_updated_by>
+        <sys_updated_on>2021-01-14 17:01:18</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

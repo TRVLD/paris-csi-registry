@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="" label="CSI Registry" language="en" table="x_558647_csi_regis_try_base">
+    <sys_documentation element="u_boolean_5" label="Paid in advance" language="en" table="x_558647_csi_regis_try_base">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element/>
+            <element>u_boolean_5</element>
             <help/>
             <hint/>
-            <label>CSI Registry</label>
+            <label>Paid in advance</label>
             <language>en</language>
             <name>x_558647_csi_regis_try_base</name>
-            <plural>CSI Registries</plural>
+            <plural>Paid in advances</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin92</sys_created_by>
-            <sys_created_on>2021-01-14 17:09:28</sys_created_on>
-            <sys_id>2bffbe842ff1e050cee6265df699b608</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_name>CSI Registry</sys_name>
+            <sys_created_on>2021-01-15 09:07:48</sys_created_on>
+            <sys_id>ad5bda9c2ff9e050cee6265df699b683</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Paid in advance</sys_name>
             <sys_package display_value="CSI Registry" source="x_558647_csi_regis">d4ad36442ff1e050cee6265df699b60c</sys_package>
             <sys_policy/>
             <sys_scope display_value="CSI Registry">d4ad36442ff1e050cee6265df699b60c</sys_scope>
-            <sys_update_name>sys_documentation_x_558647_csi_regis_try_base__en</sys_update_name>
+            <sys_update_name>sys_documentation_x_558647_csi_regis_try_base_u_boolean_5_en</sys_update_name>
             <sys_updated_by>admin92</sys_updated_by>
-            <sys_updated_on>2021-01-15 08:38:48</sys_updated_on>
+            <sys_updated_on>2021-01-15 09:07:48</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

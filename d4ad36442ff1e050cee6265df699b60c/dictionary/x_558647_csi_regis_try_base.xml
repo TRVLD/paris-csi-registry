@@ -2,5 +2,7 @@
     <element label="try_base" max_length="40" name="x_558647_csi_regis_try_base" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Idea" max_length="40" name="idea" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="255" name="u_description" type="string_full_utf8"/>
+        <element attributes="edge_encryption_enabled=true" label="Short description" mandatory="true" max_length="125" name="u_short_description" type="string"/>
     </element>
 </database>

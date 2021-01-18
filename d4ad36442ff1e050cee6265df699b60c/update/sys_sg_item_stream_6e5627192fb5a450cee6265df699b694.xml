@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="Pundit Item">3916efd52fb5a450cee6265df699b682</data_item>
+        <interleaved_field/>
+        <name>CSI Pundit Mobile Item Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>admin92</sys_created_by>
+        <sys_created_on>2021-01-18 17:09:29</sys_created_on>
+        <sys_id>6e5627192fb5a450cee6265df699b694</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CSI Pundit Mobile Item Stream</sys_name>
+        <sys_package display_value="CSI Registry" source="x_558647_csi_regis">d4ad36442ff1e050cee6265df699b60c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CSI Registry">d4ad36442ff1e050cee6265df699b60c</sys_scope>
+        <sys_update_name>sys_sg_item_stream_6e5627192fb5a450cee6265df699b694</sys_update_name>
+        <sys_updated_by>admin92</sys_updated_by>
+        <sys_updated_on>2021-01-18 17:09:29</sys_updated_on>
+        <table>x_558647_csi_regis_try_base</table>
+    </sys_sg_item_stream>
+</record_update>

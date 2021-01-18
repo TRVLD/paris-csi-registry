@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by>sys_created_by</group_by>
+        <instance_relative_url_qc/>
+        <name>Pundit Item</name>
+        <query_condition table="x_558647_csi_regis_try_base">ideaISNOTEMPTY^u_boolean_5=true<item endquery="false" field="idea" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
+            <item endquery="false" field="u_boolean_5" goto="false" newquery="false" operator="=" or="false" value="true"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin92</sys_created_by>
+        <sys_created_on>2021-01-18 17:08:20</sys_created_on>
+        <sys_id>3916efd52fb5a450cee6265df699b682</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Pundit Item</sys_name>
+        <sys_package display_value="CSI Registry" source="x_558647_csi_regis">d4ad36442ff1e050cee6265df699b60c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CSI Registry">d4ad36442ff1e050cee6265df699b60c</sys_scope>
+        <sys_update_name>sys_sg_data_item_3916efd52fb5a450cee6265df699b682</sys_update_name>
+        <sys_updated_by>admin92</sys_updated_by>
+        <sys_updated_on>2021-01-18 17:08:20</sys_updated_on>
+        <table>x_558647_csi_regis_try_base</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=3916efd52fb5a450cee6265df699b682"/>
+</record_update>

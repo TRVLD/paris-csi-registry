@@ -53,6 +53,8 @@
         <state>available</state>
         <sys_created_by>admin92</sys_created_by>
         <sys_created_on>2021-01-14 16:59:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>e8adba4c2fb1e050cee6265df699b60c</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>system</sys_updated_by>

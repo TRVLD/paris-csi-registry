@@ -4,9 +4,11 @@
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
         <element label="Paid in advance" max_length="40" name="u_boolean_5" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" label="Description" max_length="1025" name="u_description" type="string_full_utf8"/>
+        <element label="Abstract" max_length="65536" name="u_html_1" type="html"/>
         <element label="Symbol" max_length="100" name="u_icon_6" type="icon"/>
         <element attributes="edge_encryption_enabled=true" label="Piotrek Python Developcio" mandatory="true" max_length="20" name="u_nepalimesie" type="string"/>
         <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Price" max_length="20" name="u_price_4" type="price"/>
-        <element attributes="edge_encryption_enabled=true" label="Short description" mandatory="true" max_length="125" name="u_short_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Title" mandatory="true" max_length="125" name="u_short_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Resource URL" max_length="1024" name="u_url_2" type="url"/>
     </element>
 </database>

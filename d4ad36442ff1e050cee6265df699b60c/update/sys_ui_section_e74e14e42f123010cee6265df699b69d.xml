@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Last Modified" section_id="e74e14e42f123010cee6265df699b69d" sys_domain="global" table="x_558647_csi_regis_try_base" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_on</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-27 11:22:36</sys_created_on>
+            <sys_id>905e54e42f123010cee6265df699b622</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Last Modified" display_value="Last Modified" name="x_558647_csi_regis_try_base" sys_domain="global" view="Default view">e74e14e42f123010cee6265df699b69d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-27 11:22:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-27 11:22:36</sys_created_on>
+            <sys_id>145e54e42f123010cee6265df699b622</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Last Modified" display_value="Last Modified" name="x_558647_csi_regis_try_base" sys_domain="global" view="Default view">e74e14e42f123010cee6265df699b69d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-27 11:22:36</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_by</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-27 11:22:36</sys_created_on>
+            <sys_id>945e54e42f123010cee6265df699b622</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Last Modified" display_value="Last Modified" name="x_558647_csi_regis_try_base" sys_domain="global" view="Default view">e74e14e42f123010cee6265df699b69d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-27 11:22:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Last Modified</caption>
+            <header>false</header>
+            <name>x_558647_csi_regis_try_base</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-27 11:22:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e74e14e42f123010cee6265df699b69d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_558647_csi_regis_try_base</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="CSI Registry" source="x_558647_csi_regis">d4ad36442ff1e050cee6265df699b60c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CSI Registry">d4ad36442ff1e050cee6265df699b60c</sys_scope>
+            <sys_update_name>sys_ui_section_e74e14e42f123010cee6265df699b69d</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-27 11:22:33</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

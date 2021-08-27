@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="u_short_description" label="Title" language="en" table="x_558647_csi_regis_try_base">
+    <sys_documentation element="u_url_2" label="Resource URL" language="en" table="x_558647_csi_regis_try_base">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>u_short_description</element>
+            <element>u_url_2</element>
             <help/>
             <hint/>
-            <label>Title</label>
+            <label>Resource URL</label>
             <language>en</language>
             <name>x_558647_csi_regis_try_base</name>
-            <plural>Titles</plural>
+            <plural>Resource URLs</plural>
             <sys_class_name>sys_documentation</sys_class_name>
-            <sys_created_by>admin92</sys_created_by>
-            <sys_created_on>2021-01-15 08:25:39</sys_created_on>
-            <sys_id>4cb1d2182ff9e050cee6265df699b649</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_name>Title</sys_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-27 11:22:34</sys_created_on>
+            <sys_id>3b4e14e42f123010cee6265df699b6cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Resource URL</sys_name>
             <sys_package display_value="CSI Registry" source="x_558647_csi_regis">d4ad36442ff1e050cee6265df699b60c</sys_package>
             <sys_policy/>
             <sys_scope display_value="CSI Registry">d4ad36442ff1e050cee6265df699b60c</sys_scope>
-            <sys_update_name>sys_documentation_x_558647_csi_regis_try_base_u_short_description_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_558647_csi_regis_try_base_u_url_2_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-08-27 11:22:35</sys_updated_on>
+            <sys_updated_on>2021-08-27 11:22:34</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
